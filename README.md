@@ -24,7 +24,7 @@ It integrates **speech-to-text** for move inputs and **text-to-speech** for prom
    - If the board is full without a winner, it declares a draw.  
 
 
-## 🚀 Installation & Run
+##  Installation & Run
 1. Clone the repository.
 2. run the main file.
 
