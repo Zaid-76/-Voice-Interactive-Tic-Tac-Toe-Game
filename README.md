@@ -28,4 +28,7 @@ It integrates **speech-to-text** for move inputs and **text-to-speech** for prom
 1. Clone the repository.
 2. run the main file.
 
+IMPORTANT POINTS:
+1. There are two files, one is voice interactive and other is without voice interaction ie, normal keyboard gameplay.
+
 THANK YOU! FOLLOW UP FOR MORE AND MORE EXCITING UPDATES AND PROJECTS! BOOYAH!!!!!!!!
